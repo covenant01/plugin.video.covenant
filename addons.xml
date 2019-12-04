@@ -126,14 +126,14 @@
         <description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
     </extension>
 </addon>
-	
+
 <addon id="repository.covenant" name="[B][COLOR blue]Covenant[/COLOR] Repo[/B]" version="0.2" provider-name="Covenant">
 	<extension point="xbmc.addon.repository" name="Covenant Repo">
 
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/covenant01/plugins/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/covenant01/plugins/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/covenant01/plugins</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/covenant01/plugins/master</datadir>
 		</dir>
 
 		<dir>
