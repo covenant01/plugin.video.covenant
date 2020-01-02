@@ -1,9 +1,7 @@
-[B]Recently Updated:[/B] December 4, 2019
+[B]Recently Updated:[/B] January 2, 2020
 
-New Repository For Covenant Github:  
-----------------------------------
-
-https://covenant01.github.io/zip/
+- Fix trailer
+- Add IpTv
 
 
 
