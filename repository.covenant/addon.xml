@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.covenant" name="[B][COLOR blue]Covenant[/COLOR] Repository[/B]" version="0.3" provider-name="Covenant">
+<addon id="repository.covenant" name="[B][COLOR blue]Covenant[/COLOR] Repository[/B]" version="0.4" provider-name="Covenant">
 	<extension point="xbmc.addon.repository" name="Covenant Repo">
 
 		<dir>
@@ -19,6 +19,12 @@
 			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openmeta/master/zips/</datadir>
 		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+	        </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">[B][COLOR blue]Covenant[/COLOR][/B] We do not host any of the contents streamed</summary>
