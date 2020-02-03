@@ -1,8 +1,8 @@
-Recently Updated: January 2, 2020
+Recently Updated: February 3 2020
 
-- Fix trailer
-- Fix Documentary
-- Add IpTv
+- fix issues cache
+- Fix issues history
+
 
 
 
