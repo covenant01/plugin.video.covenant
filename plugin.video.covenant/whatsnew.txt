@@ -1,8 +1,17 @@
-[B]Recently Updated:[/B] January 2, 2020
+[B]Recently Updated:[/B] July 24, 2021
 
-- Fix trailer
-- Add IpTv
 
+repository.covenant - 0.5 
+plugin.video.covenant - 1.1.36 (stand allone) remove script.module and meta data and make 1 plugin
+
+Covenant has stood the test of time when it comes to Kodi addons. This Movie and TV Show addon has been around for years and features a simple interface for quick browsing of content.
+
+[I]- Fix issue[/I]
+
+Contact: 
+--------
+If you come across a bug please email me and I will fix it.
+cy4root@gmail.com  (new Correspondence Address) 
 
 
 [B]Important!![/B] Reset Covenant settings to Defaults if you are experiencing issues.
